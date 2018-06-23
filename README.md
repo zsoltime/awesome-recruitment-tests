@@ -6,7 +6,7 @@ This is a curated list of awesome coding assignments and recruitement tests.
 
 - [AngularJS](#angularjs)
 - [C#](#c)
-- [HTML & CSS](#html)
+- [HTML & CSS](#html--css)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [PHP](#php)
