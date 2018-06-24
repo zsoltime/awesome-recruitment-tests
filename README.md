@@ -1,6 +1,8 @@
-# Awesome Recruitement Tests
+# Awesome Recruitment Tests
 
-This is a curated list of awesome coding assignments and recruitement tests.
+This is a curated list of awesome coding assignments and recruitment tests.
+
+Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/zsoltime/awesome-recruitment-tests/blob/master/CONTRIBUTING.md).
 
 ## Contents
 
@@ -83,7 +85,7 @@ This is a curated list of awesome coding assignments and recruitement tests.
 # Ruby
 
 - [Goodylabs](https://github.com/goodylabs/rails-dev-test) Rails 5 application that can be developed by candidates.
-- [Monterail](https://github.com/monterail/qa-recruitment-task) QA recruitement task.
+- [Monterail](https://github.com/monterail/qa-recruitment-task) QA recruitment task.
 
 # Vue.js
 
