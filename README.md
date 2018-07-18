@@ -21,7 +21,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 - [Chatham](https://github.com/Chatham/fe-test-task) You'll build a small web application for a weather dashboard using AngularJS.
 - [Deskbookers](https://github.com/deskbookers/frontend-test) Made to check if you know your CSS, JavaScript and HTML.
 
-## C#
+## C
 
 - [JustEat](https://github.com/justeat/JustEat.InfoSecRecruitmentTest) Security engineer recruitment test.
 - [JustGiving](https://github.com/JustGiving/Recruitment-Test-SDET) SDET recruitment test.
@@ -73,6 +73,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ## React.js
 
+- [ClearScore](https://github.com/ClearScore/FED-home-test) At-home front end test, building a circular credit score indicator.
 - [DataScience](https://github.com/datascienceinc/web-frontend-code-test) At-home exercise where you will be using the public GraphQL API provided by Yelp to build a client-side application.
 - [Deskbookers](https://github.com/deskbookers/frontend-test) Made to check if you know your CSS, JavaScript and HTML.
 - [DeskBookers](https://github.com/deskbookers/frontend-expert-test) Another front-end developer test for experts.
