@@ -40,7 +40,6 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ## JavaScript
 
-- [CloudBoost](https://github.com/CloudBoost/recruitment) Test project for software engineering recruitment.
 - [Goodylabs](https://github.com/goodylabs/frontend-dev-test) Implement a method for a Tetris like game.
 - [JustEat](https://github.com/justeat/JustEat.RecruitmentTest) Create the application as either a command line application, web application or mobile application.
 - [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test) Front-end recruitment test.
@@ -49,12 +48,10 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 ## Node.js
 
 - [Ackee](https://github.com/AckeeCZ/cookbook-api-task) Enhance our Node.js backend app for delicious ackee recipes.
-- [CloudBoost](https://github.com/CloudBoost/recruitment1) A little exercise using a Star Wars API.
 - [DataScience](https://github.com/datascienceinc/web-backend-code-test) At-home exercise where you'll build a yelp-clone with a GraphQL API.
 - [Deskbookers](https://github.com/deskbookers/full-stack-test) Full stack developer test.
 - [GarageScore](https://github.com/garagescore/recruitment-test) First of the series of three challenges.
 - [Goodylabs](https://github.com/goodylabs/backend-dev-test) Create a finite automaton that has three states.
-- [Netguru](https://github.com/netguru/nodejs-recruitment-task) First task in recruitment process for the position of Node.js developer at Netguru.
 
 ## PHP
 
