@@ -60,7 +60,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 - [SitePoint](https://github.com/sitepoint/frontend-test) You need to create a simple counter application.
 - [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test) Front-end recruitment test.
 - [splicers](https://github.com/splicers/js-808) Your challenge is to code the sequencer part of our Drum Machine, which we called JS-808.
-- [Uber](https://github.com/uber/coding-challenge-tools) You can work one of the four challenges provided.
+- [Uber](https://github.com/uber/coding-challenge-tools) You can work on one of the four challenges provided.
 - [Xfive](https://github.com/xfiveco/javascript-test) Xfive test JavaScript project.
 - [ZEPL](https://github.com/ZEPL/front-end-challenge/tree/master/serialize-state) Write component-based UIs with serilizable application state.
 
