@@ -48,6 +48,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ## JavaScript
 
+- [Ada](https://github.com/AdaSupport/challenge) Fix some bugs, make some improvements in a real-time TODO app.
 - [AmbulnzLLC](https://github.com/AmbulnzLLC/fullstack-challenge) Challenge for fullstack developer.
 - [Busbud](https://github.com/busbud/coding-challenge-analytics-a) Create a web page that shows a map to visualiaze coverage of the most populated cities in the world.
 - [ChurchDesk](https://github.com/ChurchDesk/cd-challenge) Create a Single-Page Application (SPA) by using HTML, CSS and JavaScript working with the GitHub API.
@@ -59,6 +60,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 - [SitePoint](https://github.com/sitepoint/frontend-test) You need to create a simple counter application.
 - [Snowdog](https://github.com/SnowdogApps/front-end-recruitment-test) Front-end recruitment test.
 - [splicers](https://github.com/splicers/js-808) Your challenge is to code the sequencer part of our Drum Machine, which we called JS-808.
+- [Uber](https://github.com/uber/coding-challenge-tools) You can work one of the four challenges provided.
 - [Xfive](https://github.com/xfiveco/javascript-test) Xfive test JavaScript project.
 - [ZEPL](https://github.com/ZEPL/front-end-challenge/tree/master/serialize-state) Write component-based UIs with serilizable application state.
 
