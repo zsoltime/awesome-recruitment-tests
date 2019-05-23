@@ -9,6 +9,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 - [AngularJS](#angularjs)
 - [C#](#c)
 - [HTML & CSS](#html--css)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [PHP](#php)
@@ -48,7 +49,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ## Java
 
-- [WorldTicket](https://bitbucket.org/worldticket/recruitment-tests/src/default/) Front-end test project used in recruitment.
+- [WorldTicket](https://bitbucket.org/worldticket/recruitment-tests/src/default/) Create a simple web application for currency conversion.
 
 ## JavaScript
 
