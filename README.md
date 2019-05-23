@@ -9,6 +9,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 - [AngularJS](#angularjs)
 - [C#](#c)
 - [HTML & CSS](#html--css)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [PHP](#php)
@@ -45,6 +46,10 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 - [TenantBase](https://github.com/TenantBase/hiring-frontend-challenge) A quick toy project using roughly TenantBase's development stack.
 - [Xfive](https://github.com/xfiveco/front-end-test-project) Front-end test project used in recruitment.
 - [Yodlr](https://github.com/yodlr/frontend-code-challenge) Code/design challenge for front end engineering applicants.
+
+## Java
+
+- [WorldTicket](https://bitbucket.org/worldticket/recruitment-tests/src/default/) Create a simple web application for currency conversion.
 
 ## JavaScript
 
