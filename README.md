@@ -46,6 +46,10 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 - [Xfive](https://github.com/xfiveco/front-end-test-project) Front-end test project used in recruitment.
 - [Yodlr](https://github.com/yodlr/frontend-code-challenge) Code/design challenge for front end engineering applicants.
 
+## Java
+
+- [WorldTicket](https://bitbucket.org/worldticket/recruitment-tests/src/default/) Front-end test project used in recruitment.
+
 ## JavaScript
 
 - [Ada](https://github.com/AdaSupport/challenge) Fix some bugs, make some improvements in a real-time TODO app.
