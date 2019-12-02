@@ -25,7 +25,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 - [EngageTech](https://github.com/engagetech/frontend-coding-challenge) An Angular, HTML, and CSS-focused challenge.
 - [Thortful](https://github.com/ThortfulNew/FrontEndChallenge) Write a JavaScript / Coffeescript app using AngularJS that will allow a user to search a repository by name and display a repository's relevant information.
 
-## C
+## C#
 
 - [JustEat](https://github.com/justeat/JustEat.InfoSecRecruitmentTest) Security engineer recruitment test.
 - [JustGiving](https://github.com/JustGiving/Recruitment-Test-SDET) SDET recruitment test.
@@ -74,7 +74,6 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 - [Ackee](https://github.com/AckeeCZ/cookbook-api-task) Enhance our Node.js backend app for delicious ackee recipes.
 - [AmbulnzLLC](https://github.com/AmbulnzLLC/backend-challenge) The application serves the purpose of ordering pizza online.
 - [Busbud](https://github.com/busbud/coding-challenge-backend-c) Design an API endpoint that provides auto-complete suggestions for large cities.
-- [DataScience](https://github.com/datascienceinc/web-backend-code-test) At-home exercise where you'll build a yelp-clone with a GraphQL API.
 - [Deskbookers](https://github.com/deskbookers/full-stack-test) Full stack developer test.
 - [Entria](https://github.com/entria/jobs/blob/master/backend/challenge.md) Create a REST CRUD.
 - [GarageScore](https://github.com/garagescore/recruitment-test) First of the series of three challenges.
@@ -109,7 +108,6 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 - [Busbud](https://github.com/busbud/coding-challenge-frontend-b) Your challenge is to build a microsite that allows a traveler from NYC to find one-way departure schedules to the Osheaga festival.
 - [ClearScore](https://github.com/ClearScore/FED-home-test) At-home front end test, building a circular credit score indicator.
 - [Colony](https://github.com/JoinColony/coding-challenge) You'll be building a simple React component: an avatar picker.
-- [DataScience](https://github.com/datascienceinc/web-frontend-code-test) At-home exercise where you will be using the public GraphQL API provided by Yelp to build a client-side application.
 - [Deskbookers](https://github.com/deskbookers/frontend-test) Made to check if you know your CSS, JavaScript and HTML.
 - [DeskBookers](https://github.com/deskbookers/frontend-expert-test) Another front-end developer test for experts.
 - [Entria](https://github.com/entria/jobs/blob/master/frontend/challenge.md) Create a List and Detail view for some model.
