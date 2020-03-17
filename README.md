@@ -88,7 +88,6 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 - [Aiir](https://github.com/aiir/dev-recruitment-test) - Recruitment test for developer roles.
 - [CitizenNet](https://github.com/citizennet/frontend-engineering-challenge) - Your task is to write a program to reliably pull Posts and Likes JSON files from the provided API, and represent this data in a web app for the user.
-- [Loyalty Corp](https://github.com/loyaltycorp/test-task) - This test task requires you to implement a new feature into an existing RESTful API.
 - [Nord Software](https://github.com/digiaonline/docs/tree/master/recruitment/basic-back-end) - Preliminary test to determine the technical ability of developers applying for back-end positions at Nord Software.
 - [Snowdog](https://github.com/SnowdogApps/php-recruitment-test) - Recruitment test for PHP developers.
 - [Teamleader](https://github.com/teamleadercrm/coding-test) - Three different problems to solve.
