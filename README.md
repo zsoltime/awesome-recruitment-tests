@@ -127,6 +127,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 - [SkyScanner](https://github.com/Skyscanner/full-stack-recruitment-test) - Full-stack recruitment test.
 - [Storecast](https://github.com/storecast/frontend-challenge) - The task is to implement a 2-step UI wizard to create a user account.
 - [StreamCo](https://github.com/StreamCo/react-coding-challenge) - You will need to build the following 3 pages with React, a "Home", a "Series", and a "Movies" page.
+- [Worldfavor](https://github.com/WorldfavorOrg/recruitment-test) - Complete three different tasks; implement the provided design, work on state management, and change the way data is loaded.
 - [ZEPL](https://github.com/ZEPL/front-end-challenge/tree/master/notes-app) - Make a single page application which can manage notes.
 - [ZEPL](https://github.com/ZEPL/front-end-challenge/tree/master/slack-clone) - Make a simplified slack clone.
 
