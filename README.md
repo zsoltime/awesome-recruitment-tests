@@ -54,7 +54,7 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](https://github.com/
 
 ## Java
 
-- [WorldTicket](https://bitbucket.org/worldticket/recruitment-tests/src/default/) - Create a simple web application for currency conversion.
+- [WorldTicket](https://bitbucket.org/worldticket/recruitment-tests-discontinued-hg/src/default/) - Create a simple web application for currency conversion.
 
 ## JavaScript
 
